@@ -1,0 +1,22 @@
+redirect(url_for("login"))
+
+render_template('home.html')
+
+
+
+___________________________________________________________________________
+new updates needed
+chat bot
+
+session completion and paymnet for furtheer classes to the parnets
+
+
+one to one authentication requirement meeting required 
+
+data collection such as student loggin time 
+
+teacher login time, duration of the session.
+
+teacher need to enter the session first before student, student 
+attendence, 
+no. of classes completed and final report
